@@ -31,7 +31,7 @@ app.use(cors());
 
 //Recuperation des routes
 // require('./routes/api.js')(app);
-app.listen(5000, () => {
+app.listen(6000, () => {
     console.log("Server is listening on port 5000")
 })
 
